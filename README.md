@@ -1,6 +1,5 @@
 # Project: Collaboration and Competition
 ### The Environment
-===============
 For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
 
 ![Unity ML-Agents Tennis Environment](https://video.udacity-data.com/topher/2018/May/5af7955a_tennis/tennis.png)
