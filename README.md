@@ -1,7 +1,6 @@
 # Project: Collaboration and Competition
 ### The Environment
 ===============
-
 For this project, you will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
 
 ![Unity ML-Agents Tennis Environment](https://video.udacity-data.com/topher/2018/May/5af7955a_tennis/tennis.png)
@@ -20,7 +19,6 @@ The task is episodic, and in order to solve the environment, your agents must ge
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 ### Getting Started
-
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
 Step 1: Activate the Environment
@@ -61,7 +59,5 @@ Step 3: Explore the Environment
 * * * * *
 
 After you have followed the instructions above, open `Tennis.ipynb` (located in the `p3_collab-compet/` folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
-
-Watch the (*silent*) video below to see what kind of output to expect from the notebook, if everything is working properly!
 
 In the last code cell of the notebook, you'll learn how to design and observe an agent that always selects random actions at each timestep. Your goal in this project is to create an agent that performs much better!
